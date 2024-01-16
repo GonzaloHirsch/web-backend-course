@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Clase 1"
-description: "Clase 1 - Teoría de APIs REST e inicialización del Proyecto"
+description: "Clase 1 - Teoría sobre APIs REST (métodos HTTP, estructure de los recursos) e inicialización del proyecto de la clase usando Django."
 principal: false
 active: true
 ---
