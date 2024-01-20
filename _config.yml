@@ -30,6 +30,10 @@ description: Curso de desarrollo de APIs REST con Django de Computer Society ITB
 
 theme: jekyll-theme-cayman
 
+# Added plugin for SEO
+plugins:
+  - jekyll-seo-tag
+
 social-network-links:
   email: "computersociety@itba.edu.ar"
   github: csitba
