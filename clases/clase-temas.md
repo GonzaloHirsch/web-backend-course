@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Temas"
-description: "Temas a discutir durante el curso"
+title:  "Temas - Una lista completa del curso"
+description: "Temas - Todos los temas que se tratan durante el Curso de Web Backend y se encuentran disponibles en las diferentes páginas internas del sitio."
 principal: false
 active: true
 ---
