@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Curso Web Backend"
-description: "Desarrollo de APIs REST con Django"
+title:  "Curso Web Backend - Página principal del curso"
+description: "Aprendé sobre el desarrollo de APIs REST con Django, incluyendo una extensa teoría sobre el tema, para que puedas expandir sobre tus conocimientos y proyectos."
 principal: true
 active: true
 ---
