@@ -6,7 +6,7 @@ principal: false
 active: true
 ---
 
-# Temas
+## Temas
 
 Los temas que vamos a ver durante el curso son:
 * Qué es una API
