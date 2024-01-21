@@ -6,7 +6,7 @@ principal: false
 active: true
 ---
 
-# Clase Requests
+## Clase Requests
 
 ¡Bienvenidos al Curso de Web Backend!
 
