@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Clase 4"
-description: "Clase 4 - Acciones del usuario, mailing, testing y un caso real"
+description: "Clase 4 - Acciones del usuario a través de serializadores, envío de emails automáticos, testing y cómo se utilizarían Cloud Providers para infraestructura real."
 principal: false
 active: true
 ---
