@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Clase 3 - Búsqueda y paginación | Curso Web Backend"
+title:  "Clase 3 - Búsqueda y paginación"
 description: "Clase 3 - Administración de modelos de Django en más detalle, funcionalidad de búsqueda y paginación para resultados de búsqueda y ejercicios de práctica."
 principal: false
 active: true
