@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Setup"
-description: "Herramientas y configuraciones necesarias para las clases"
+title:  "Setup - Herramientas y Configuraciones"
+description: "Todas las herramientas y configuraciones necesarias para las clases y la realización de los ejercicios que las acompañan (Python, Postman, CURL, SQLite)."
 principal: false
 active: true
 ---
