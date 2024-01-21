@@ -6,7 +6,7 @@ principal: false
 active: true
 ---
 
-# Clase 2
+## Clase 2
 
 ¡Bienvenidos a la clase número 2!
 
