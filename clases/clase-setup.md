@@ -6,7 +6,7 @@ principal: false
 active: true
 ---
 
-# Clase Setup
+## Clase Setup
 
 ¡Bienvenidos al Curso de Web Backend!
 
