@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Clase 2"
-description: "Clase 2 - Usuarios, autenticación y permisos"
+title:  "Clase 2 - Autenticación via JWT"
+description: "Clase 2 - Administración de usuarios (serializers, modelos, forms), autenticación, autorización segura via JWT, y manejo de permisos a través de grupos."
 principal: false
 active: true
 ---
