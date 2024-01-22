@@ -41,4 +41,8 @@ social-network-links:
   linkedin: computer.society.itba
   youtube: c/csitba
 
+# SEO
+twitter:
+  'twitter:username': '@GonzaloHirsch'
+
 google_analytics: G-V0EKY8BH3B
