@@ -41,6 +41,13 @@ social-network-links:
   linkedin: computer.society.itba
   youtube: c/csitba
 
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /meta.png
+
 # SEO
 twitter:
   'twitter:username': '@GonzaloHirsch'
