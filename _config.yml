@@ -44,5 +44,7 @@ social-network-links:
 # SEO
 twitter:
   'twitter:username': '@GonzaloHirsch'
+  username: '@GonzaloHirsch'
+  card: summary
 
 google_analytics: G-V0EKY8BH3B
