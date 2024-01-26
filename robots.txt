@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://web-backend.gonzalohirsch.com/sitemap.xml
