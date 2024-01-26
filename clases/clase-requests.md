@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Requests - Probando la API bancaria | Curso Web Backend"
+title:  "Requests - Probando la API bancaria"
 description: "Ejemplos de requests a través de CURL para simplificar las pruebas de los ejercicios. Todos los ejemplos se pueden ejecutar localmente en la terminal."
 principal: false
 active: true
