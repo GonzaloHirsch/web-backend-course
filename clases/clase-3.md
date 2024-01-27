@@ -91,7 +91,7 @@ Estos modelos los declaramos dentro del archivo `api/models.py`.
 
 ### Métodos de los Modelos
 
-Django ofrece un montón de [métodos](https://docs.djangoproject.com/en/3.1/ref/models/instances) para interactuar con nuestros modelos, los más usados son:
+Django ofrece un montón de [métodos](https://docs.djangoproject.com/en/3.1/ref/models/instances/) para interactuar con nuestros modelos, los más usados son:
 - `save()` --> Sirve para guardar los cambios que se hicieron sobre la instancia de un modelo o guardar un nuevo objeto, se llama como `instance.save()`
 - `delete()` --> Sirve para borrar la instancia del modelo, se llama como `isntance.delete()`
 - `create()` --> Sirve para crear y guardar un nuevo objeto, se llama como `Model.objects.create(...)`, donde `Model` es el modelo que queremos crear
