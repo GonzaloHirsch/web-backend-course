@@ -722,7 +722,7 @@ AWS se puede usar para levantar nuestra API en la nube, en caso de que queramos 
 
 ### Azure
 
-[Azure](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio), al igual que AWS, es un servicio de cómputo en la nube creado por *Microsoft* que ofrece una gran variedad de servicios del estilo de:
+[Azure](https://azure.microsoft.com/en-us/free/), al igual que AWS, es un servicio de cómputo en la nube creado por *Microsoft* que ofrece una gran variedad de servicios del estilo de:
 - Software as a Service [(SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)
 - Platform as a Service [(PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service)
 - Infrastructure as a Service [(IaaS)](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
@@ -730,8 +730,8 @@ AWS se puede usar para levantar nuestra API en la nube, en caso de que queramos 
 Azure se puede usar para levantar nuestra API en la nube, en caso de que queramos llevar nuestra API para un producto.
 
 Si bien vamos a ir en más detalle de que hay que hacer para deployar en AWS, algunos de los servicios de **Azure** que se usarían son:
-- [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/overview) --> Sirve para hostear la API, permite escalarla
-- [Azure Database for Postgres](https://azure.microsoft.com/en-us/services/postgresql/) --> Va a ser la base de datos de la API
+- [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview) --> Sirve para hostear la API, permite escalarla
+- [Azure Database for Postgres](https://azure.microsoft.com/en-us/products/postgresql/) --> Va a ser la base de datos de la API
 
 ### Cómo se levanta
 
@@ -806,7 +806,7 @@ Luego de poder deployar todo correctamente, obtenemos una URL de nuestra API `ht
 
 Esta API actualmente está corriendo, así que se puede usar de la misma manera que veníamos probando nuestra API original.
 
-**NOTA:** La versión de la API levantada es una versión hecha hasta la parte de agregar fondos. El repositorio donde se puede encontrar el código de la API adaptado para usarse en AWS/Azure es [este](https://github.com/csitba/curso-web-backend-azure).
+**NOTA:** La versión de la API levantada es una versión hecha hasta la parte de agregar fondos. El repositorio donde se puede encontrar el código de la API adaptado para usarse en AWS/Azure es [este](https://github.com/Computer-Society-ITBA/curso-web-backend-azure).
 
 ### Recursos
 
@@ -818,9 +818,9 @@ Hay una gran cantidad de tutoriales de Microsoft que explican como levantar una 
 - [Cómo armar una API en Django con PostgreSQL - Medium](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
 - [Ejemplo de aplicación de Django con Azure - Github](https://github.com/SunBuild/django-poll)
 - [Cómo armar una API en Django con PostgreSQL - Azure App Service](https://azure.github.io/AppService/2017/05/10/Create-Django-Web-app-with-PostgreSQL.html)
-- [Cómo deployar una API en Django con Azure App Services](https://docs.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app?tabs=bash%2Cclone)
+- [Cómo deployar una API en Django con Azure App Services](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app)
 - [Armar una API básica en Django con Azure](https://stories.mlh.io/deploying-a-basic-django-app-using-azure-app-services-71ec3b21db08)
-- [Serie de videos de Microsoft sobre APIs en Django con Azure](https://channel9.msdn.com/shows/Azure-Friday/Python-on-Azure-Part-1-Building-Django-apps-with-Visual-Studio-Code?ocid=AID754288&wt.mc_id=CFID0237)
+- [Serie de videos de Microsoft sobre APIs en Django con Azure](https://learn.microsoft.com/en-us/shows/azure-friday/python-on-azure-part-1-building-django-apps-with-visual-studio-code)
 
 *** 
 
