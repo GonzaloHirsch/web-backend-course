@@ -33,6 +33,7 @@ theme: jekyll-theme-cayman
 # Added plugin for SEO
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 social-network-links:
   email: "computersociety@itba.edu.ar"
